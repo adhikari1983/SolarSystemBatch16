@@ -10,7 +10,7 @@ public class Main {
 
             FeatureSun kiranX = new FeatureSun();
             kiranX.name="poya";
-            kiranX.temp = 12344231 celcius;
+            kiranX.temp = "12344231 celcius";
             kiranX.size = "32942km";
     }
 }
