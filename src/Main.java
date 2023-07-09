@@ -18,5 +18,11 @@ public class Main {
             xeon.color = "pink";
             xeon.temp ="-45celcius";
             xeon.size="1cm";
+
+            Planet2 feon = new Planet2();
+            feon.name="exo";
+            feon.color="white";
+            feon.size="1234billion km";
+            feon.temp="10000celcius";
     }
 }
