@@ -11,6 +11,12 @@ public class Main {
             FeatureSun kiranX = new FeatureSun();
             kiranX.name="poya";
             kiranX.temp = "12344231 celcius";
-            kiranX.size = "32942km";
+
+
+            Planet2 feon = new Planet2();
+            feon.name="exo";
+            feon.color="white";
+            feon.size="1234billion km";
+            feon.temp="10000celcius";
     }
 }
